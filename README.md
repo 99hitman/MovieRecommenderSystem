@@ -1,5 +1,5 @@
 # MovieRecommenderSystem
-A movie recommender system is a tool that suggests movies to users based on their preferences or past behavior. This can be implemented in Python and deployed as a web application using Streamlit.
+A movie recommender system is a tool that suggests movies to users based on their preferences or past behavior. This is implemented in Python and deployed as a web application using Streamlit.
 
 Steps to Implement a Movie Recommender System Using Python and Streamlit:
 
